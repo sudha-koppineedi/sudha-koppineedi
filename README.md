@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<p align="center">
+ <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAC/programmer.gif" width="600"/>
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/GVk4jB2u_iAAAAAC/cat-typing.gif" width="600"/>
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/ITc0f1bx1aIAAAAC/cute-cat.gif" width="600"/>
+</p>
+
 <!--
 **sudha-koppineedi/sudha-koppineedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
