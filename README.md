@@ -13,7 +13,7 @@
 - 🎓 CSE Student at **Aditya University**
 - 🌱 Currently learning **MERN Stack** & **DSA**
 - 🚀 Building projects to improve problem-solving & development skills
-- ✨ Love creating clean UI and meaningful applications
+
 
 
 ---
@@ -23,6 +23,7 @@
 - Advanced JavaScript
 - Backend APIs
 - Problem Solving & DSA
+- Competitive Programming
 
 ---
 
