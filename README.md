@@ -55,9 +55,6 @@
   <img src="https://img.shields.io/badge/Spotify%20Clone-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/sudha-koppineedi/Overthink-O-matic">
-  <img src="https://img.shields.io/badge/Overthink%20O%20Matic-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <a href="https://sudha-koppineedi.github.io/AlgoWatch/">
   <img src="https://img.shields.io/badge/AlgoWatch-181717?style=for-the-badge&logo=github&logoColor=white" />
