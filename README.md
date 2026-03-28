@@ -46,6 +46,11 @@
 
 <p align="center">
 
+
+<a href="(https://github.com/sudha-koppineedi/Eventure)">
+  <img src="https://img.shields.io/badge/Spotify%20Clone-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="(https://sudha-koppineedi.github.io/Music-player-UI/)">
   <img src="https://img.shields.io/badge/Spotify%20Clone-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
